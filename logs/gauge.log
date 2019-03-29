@@ -1,0 +1,264 @@
+19:07:58.303 Plugin java is already installed.
+19:07:58.304 Plugin html-report is already installed.
+19:07:59.936 Checking updates...
+19:08:18.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" > 
+19:08:18.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" parameterizedStepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" > > 
+19:08:18.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" > 
+19:08:18.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden {} yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" parameters:"text" > > 
+19:08:18.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus tarihi tablosundan <day> 'u secilir" > 
+19:08:18.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus tarihi tablosundan {} 'u secilir" parameterizedStepValue:"Ucus tarihi tablosundan <day> 'u secilir" parameters:"day" > > 
+19:08:18.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:08:18.628 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:08:18.628 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:08:18.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:08:18.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sat\304\261n alma islemine devam edilir" > 
+19:08:18.630 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sat\304\261n alma islemine devam edilir" parameterizedStepValue:"Sat\304\261n alma islemine devam edilir" > > 
+19:08:18.630 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:08:18.631 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:08:18.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Minik swipe" > 
+19:08:18.631 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Minik swipe" parameterizedStepValue:"Minik swipe" > > 
+19:08:18.632 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > 
+19:08:18.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" parameterizedStepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > > 
+19:08:18.633 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bugunun Tarihi secilir" > 
+19:08:18.633 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bugunun Tarihi secilir" parameterizedStepValue:"Bugunun Tarihi secilir" > > 
+19:08:18.633 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:08:18.634 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:08:18.635 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Elementi g\303\266rene kadar swipe" > 
+19:08:18.635 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Elementi g\303\266rene kadar swipe" parameterizedStepValue:"Elementi g\303\266rene kadar swipe" > > 
+19:08:18.638 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > 
+19:08:18.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > > 
+19:08:18.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > 
+19:08:18.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > > 
+19:08:18.640 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > 
+19:08:18.640 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > > 
+19:08:18.642 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<a>Listedesindeki <a> element secilir " > 
+19:08:18.643 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}Listedesindeki {} element secilir" parameterizedStepValue:"<a>Listedesindeki <a> element secilir" parameters:"a" parameters:"a" > > 
+19:08:18.645 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> listesinden \304\260lk elementi sec" > 
+19:08:18.645 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden \304\260lk elementi sec" parameterizedStepValue:"<> listesinden \304\260lk elementi sec" parameters:"" > > 
+19:08:18.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:08:18.646 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:08:18.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:08:18.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:08:18.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus paketi en pahal\304\261 olan secilir" > 
+19:08:18.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus paketi en pahal\304\261 olan secilir" parameterizedStepValue:"Ucus paketi en pahal\304\261 olan secilir" > > 
+19:08:18.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu isim soyisim girilir" > 
+19:08:18.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu isim soyisim girilir" parameterizedStepValue:"Yolcu isim soyisim girilir" > > 
+19:08:18.649 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" > 
+19:08:18.649 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" parameterizedStepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" > > 
+19:08:18.650 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:08:18.650 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:08:18.653 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listenin son ucusu secilir" > 
+19:08:18.653 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listenin son ucusu secilir" parameterizedStepValue:"Listenin son ucusu secilir" > > 
+19:08:18.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:08:18.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:10:32.120 Plugin [Html Report] with pid [84047] has exited
+19:10:33.126 Closing connection [127.0.0.1:57422] cause: EOF
+19:10:33.155 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:10:33.155 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:10:33.155 
+Total time taken: 2m7.357s
+19:10:33.156 Updates are available. Run `gauge update -c` for more info.
+19:11:50.580 Plugin java is already installed.
+19:11:50.581 Plugin html-report is already installed.
+19:11:52.452 Checking updates...
+19:12:02.728 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" > 
+19:12:02.732 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" parameterizedStepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r2" > > 
+19:12:02.824 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" > 
+19:12:02.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden {} yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" parameters:"text" > > 
+19:12:02.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus tarihi tablosundan <day> 'u secilir" > 
+19:12:02.830 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus tarihi tablosundan {} 'u secilir" parameterizedStepValue:"Ucus tarihi tablosundan <day> 'u secilir" parameters:"day" > > 
+19:12:02.834 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:12:02.835 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:12:02.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:12:02.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:12:02.839 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sat\304\261n alma islemine devam edilir" > 
+19:12:02.839 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sat\304\261n alma islemine devam edilir" parameterizedStepValue:"Sat\304\261n alma islemine devam edilir" > > 
+19:12:02.843 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:12:02.844 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:12:02.848 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Minik swipe" > 
+19:12:02.849 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Minik swipe" parameterizedStepValue:"Minik swipe" > > 
+19:12:02.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > 
+19:12:02.853 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" parameterizedStepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > > 
+19:12:02.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bugunun Tarihi secilir" > 
+19:12:02.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bugunun Tarihi secilir" parameterizedStepValue:"Bugunun Tarihi secilir" > > 
+19:12:02.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:12:02.859 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:12:02.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Elementi g\303\266rene kadar swipe" > 
+19:12:02.860 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Elementi g\303\266rene kadar swipe" parameterizedStepValue:"Elementi g\303\266rene kadar swipe" > > 
+19:12:02.860 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > 
+19:12:02.860 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > > 
+19:12:02.861 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > 
+19:12:02.861 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > > 
+19:12:02.862 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > 
+19:12:02.862 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > > 
+19:12:02.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<a>Listedesindeki <a> element secilir " > 
+19:12:02.865 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}Listedesindeki {} element secilir" parameterizedStepValue:"<a>Listedesindeki <a> element secilir" parameters:"a" parameters:"a" > > 
+19:12:02.865 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> listesinden \304\260lk elementi sec" > 
+19:12:02.866 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden \304\260lk elementi sec" parameterizedStepValue:"<> listesinden \304\260lk elementi sec" parameters:"" > > 
+19:12:02.868 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:12:02.868 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:12:02.869 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:12:02.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:12:02.870 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus paketi en pahal\304\261 olan secilir" > 
+19:12:02.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus paketi en pahal\304\261 olan secilir" parameterizedStepValue:"Ucus paketi en pahal\304\261 olan secilir" > > 
+19:12:02.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu isim soyisim girilir" > 
+19:12:02.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu isim soyisim girilir" parameterizedStepValue:"Yolcu isim soyisim girilir" > > 
+19:12:02.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" > 
+19:12:02.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" parameterizedStepValue:"Uyar\304\261 mesajlar\304\261 kapat\304\261l\304\261r" > > 
+19:12:02.873 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:12:02.873 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:12:02.873 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listenin son ucusu secilir" > 
+19:12:02.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listenin son ucusu secilir" parameterizedStepValue:"Listenin son ucusu secilir" > > 
+19:12:02.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:12:02.875 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:15:46.017 Plugin java is already installed.
+19:15:46.018 Plugin html-report is already installed.
+19:15:47.501 Checking updates...
+19:16:22.313 Plugin java is already installed.
+19:16:22.314 Plugin html-report is already installed.
+19:16:23.847 Checking updates...
+19:16:38.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" > 
+19:16:38.255 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden {} yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" parameters:"text" > > 
+19:16:38.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listenin son ucusu secilir" > 
+19:16:38.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listenin son ucusu secilir" parameterizedStepValue:"Listenin son ucusu secilir" > > 
+19:16:38.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > 
+19:16:38.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > > 
+19:16:38.326 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Size" > 
+19:16:38.326 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Size" parameterizedStepValue:"Size" > > 
+19:16:38.327 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > 
+19:16:38.327 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > > 
+19:16:38.329 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus tarihi tablosundan <day> 'u secilir" > 
+19:16:38.330 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus tarihi tablosundan {} 'u secilir" parameterizedStepValue:"Ucus tarihi tablosundan <day> 'u secilir" parameters:"day" > > 
+19:16:38.342 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:16:38.342 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:16:38.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<a>Listedesindeki <a> element secilir " > 
+19:16:38.345 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}Listedesindeki {} element secilir" parameterizedStepValue:"<a>Listedesindeki <a> element secilir" parameters:"a" parameters:"a" > > 
+19:16:38.347 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:16:38.348 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:16:38.349 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> listesinden \304\260lk elementi sec" > 
+19:16:38.349 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden \304\260lk elementi sec" parameterizedStepValue:"<> listesinden \304\260lk elementi sec" parameters:"" > > 
+19:16:38.350 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:16:38.350 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:16:38.351 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:16:38.351 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:16:38.351 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sat\304\261n alma islemine devam edilir" > 
+19:16:38.351 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sat\304\261n alma islemine devam edilir" parameterizedStepValue:"Sat\304\261n alma islemine devam edilir" > > 
+19:16:38.352 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > 
+19:16:38.353 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" parameterizedStepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > > 
+19:16:38.355 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:16:38.355 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:16:38.357 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu isim soyisim girilir" > 
+19:16:38.357 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu isim soyisim girilir" parameterizedStepValue:"Yolcu isim soyisim girilir" > > 
+19:16:38.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Minik swipe" > 
+19:16:38.358 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Minik swipe" parameterizedStepValue:"Minik swipe" > > 
+19:16:38.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bugunun Tarihi secilir" > 
+19:16:38.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bugunun Tarihi secilir" parameterizedStepValue:"Bugunun Tarihi secilir" > > 
+19:16:38.359 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:16:38.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:16:38.360 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:16:38.361 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:16:38.361 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:16:38.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:16:38.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus paketi en pahal\304\261 olan secilir" > 
+19:16:38.363 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus paketi en pahal\304\261 olan secilir" parameterizedStepValue:"Ucus paketi en pahal\304\261 olan secilir" > > 
+19:16:38.363 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > 
+19:16:38.363 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > > 
+19:21:41.505 Plugin java is already installed.
+19:21:41.506 Plugin html-report is already installed.
+19:21:43.131 Checking updates...
+19:22:17.430 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" > 
+19:22:17.434 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden {} yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" parameters:"text" > > 
+19:22:17.497 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listenin son ucusu secilir" > 
+19:22:17.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listenin son ucusu secilir" parameterizedStepValue:"Listenin son ucusu secilir" > > 
+19:22:17.498 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > 
+19:22:17.498 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > > 
+19:22:17.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Size" > 
+19:22:17.499 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Size" parameterizedStepValue:"Size" > > 
+19:22:17.500 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > 
+19:22:17.501 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > > 
+19:22:17.503 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus tarihi tablosundan <day> 'u secilir" > 
+19:22:17.503 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus tarihi tablosundan {} 'u secilir" parameterizedStepValue:"Ucus tarihi tablosundan <day> 'u secilir" parameters:"day" > > 
+19:22:17.504 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:22:17.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:22:17.505 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<a>Listedesindeki <a> element secilir " > 
+19:22:17.505 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}Listedesindeki {} element secilir" parameterizedStepValue:"<a>Listedesindeki <a> element secilir" parameters:"a" parameters:"a" > > 
+19:22:17.506 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:22:17.506 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:22:17.507 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> listesinden \304\260lk elementi sec" > 
+19:22:17.507 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden \304\260lk elementi sec" parameterizedStepValue:"<> listesinden \304\260lk elementi sec" parameters:"" > > 
+19:22:17.508 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:22:17.508 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:22:17.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:22:17.509 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:22:17.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sat\304\261n alma islemine devam edilir" > 
+19:22:17.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sat\304\261n alma islemine devam edilir" parameterizedStepValue:"Sat\304\261n alma islemine devam edilir" > > 
+19:22:17.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > 
+19:22:17.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" parameterizedStepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > > 
+19:22:17.511 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:22:17.512 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:22:17.516 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu isim soyisim girilir" > 
+19:22:17.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu isim soyisim girilir" parameterizedStepValue:"Yolcu isim soyisim girilir" > > 
+19:22:17.517 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Minik swipe" > 
+19:22:17.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Minik swipe" parameterizedStepValue:"Minik swipe" > > 
+19:22:17.518 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bugunun Tarihi secilir" > 
+19:22:17.518 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bugunun Tarihi secilir" parameterizedStepValue:"Bugunun Tarihi secilir" > > 
+19:22:17.519 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:22:17.519 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:22:17.519 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:22:17.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:22:17.520 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:22:17.521 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:22:17.521 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus paketi en pahal\304\261 olan secilir" > 
+19:22:17.521 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus paketi en pahal\304\261 olan secilir" parameterizedStepValue:"Ucus paketi en pahal\304\261 olan secilir" > > 
+19:22:17.523 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > 
+19:22:17.523 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > > 
+19:22:17.706 Connection to runner with Pid 85159 lost. The runner probably quit unexpectedly. Inspect logs for potential reasons. Error : read tcp 127.0.0.1:59674->127.0.0.1:59687: use of closed network connection
+19:22:46.004 Plugin html-report is already installed.
+19:22:46.004 Plugin java is already installed.
+19:22:47.322 Checking updates...
+19:23:07.554 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" > 
+19:23:07.555 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden {} yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Klavyeden <text> yazd\304\261r\304\261l\304\261r" parameters:"text" > > 
+19:23:07.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Listenin son ucusu secilir" > 
+19:23:07.621 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Listenin son ucusu secilir" parameterizedStepValue:"Listenin son ucusu secilir" > > 
+19:23:07.622 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > 
+19:23:07.622 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r2" > > 
+19:23:07.623 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Size" > 
+19:23:07.623 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Size" parameterizedStepValue:"Size" > > 
+19:23:07.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > 
+19:23:07.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" parameterizedStepValue:"ekonomi business secimi sonras\304\261 uyar\304\261 mesaj\304\261 devam et butonuna bas\304\261l\304\261r" > > 
+19:23:07.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus tarihi tablosundan <day> 'u secilir" > 
+19:23:07.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus tarihi tablosundan {} 'u secilir" parameterizedStepValue:"Ucus tarihi tablosundan <day> 'u secilir" parameters:"day" > > 
+19:23:07.626 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261 silinir" > 
+19:23:07.626 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261 silinir" parameterizedStepValue:"<by> alan\304\261 silinir" parameters:"by" > > 
+19:23:07.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<a>Listedesindeki <a> element secilir " > 
+19:23:07.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}Listedesindeki {} element secilir" parameterizedStepValue:"<a>Listedesindeki <a> element secilir" parameters:"a" parameters:"a" > > 
+19:23:07.628 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > 
+19:23:07.628 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden ENTER tu\305\237una bas\304\261l\304\261r" > > 
+19:23:07.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<> listesinden \304\260lk elementi sec" > 
+19:23:07.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} listesinden \304\260lk elementi sec" parameterizedStepValue:"<> listesinden \304\260lk elementi sec" parameters:"" > > 
+19:23:07.630 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > 
+19:23:07.630 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Klavyeden TAB tu\305\237una bas\304\261l\304\261r" > > 
+19:23:07.632 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> elementinin g\303\266r\303\274lmesi beklenir" > 
+19:23:07.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementinin g\303\266r\303\274lmesi beklenir" parameterizedStepValue:"<by> elementinin g\303\266r\303\274lmesi beklenir" parameters:"by" > > 
+19:23:07.633 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sat\304\261n alma islemine devam edilir" > 
+19:23:07.633 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sat\304\261n alma islemine devam edilir" parameterizedStepValue:"Sat\304\261n alma islemine devam edilir" > > 
+19:23:07.634 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > 
+19:23:07.634 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" parameterizedStepValue:"Sayfan\304\261n sonuna kadar swipe yap\304\261l\304\261r" > > 
+19:23:07.635 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > 
+19:23:07.635 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" parameterizedStepValue:"Herhangi bir pop up varsa kapat\304\261l\304\261r" > > 
+19:23:07.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Minik swipe" > 
+19:23:07.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Minik swipe" parameterizedStepValue:"Minik swipe" > > 
+19:23:07.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bugunun Tarihi secilir" > 
+19:23:07.640 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bugunun Tarihi secilir" parameterizedStepValue:"Bugunun Tarihi secilir" > > 
+19:23:07.641 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> butonuna t\304\261klan\304\261r" > 
+19:23:07.641 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} butonuna t\304\261klan\304\261r" parameterizedStepValue:"<by> butonuna t\304\261klan\304\261r" parameters:"by" > > 
+19:23:07.642 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<by> alan\304\261na <text> yaz\304\261l\304\261r" > 
+19:23:07.642 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} alan\304\261na {} yaz\304\261l\304\261r" parameterizedStepValue:"<by> alan\304\261na <text> yaz\304\261l\304\261r" parameters:"by" parameters:"text" > > 
+19:23:07.643 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu isim soyisim girilir" > 
+19:23:07.643 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu isim soyisim girilir" parameterizedStepValue:"Yolcu isim soyisim girilir" > > 
+19:23:07.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<Saniye> Saniyesi kadar bekle" > 
+19:23:07.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} Saniyesi kadar bekle" parameterizedStepValue:"<Saniye> Saniyesi kadar bekle" parameters:"Saniye" > > 
+19:23:07.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucus paketi en pahal\304\261 olan secilir" > 
+19:23:07.646 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucus paketi en pahal\304\261 olan secilir" parameterizedStepValue:"Ucus paketi en pahal\304\261 olan secilir" > > 
+19:23:07.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > 
+19:23:07.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" parameterizedStepValue:"Yolcu dogum tarihi yazd\304\261r\304\261l\304\261r" > > 
